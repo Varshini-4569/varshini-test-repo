@@ -7,6 +7,6 @@ clrscr();
 printf("enter two number:");
 scanf("%d%d",&a,&b);
 sum=a+b;
-printf("%d",sum);
+printf("%d",&sum);
 getch();
 }
